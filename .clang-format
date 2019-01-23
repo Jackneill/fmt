@@ -14,7 +14,6 @@ AlwaysBreakBeforeMultilineStrings: false
 AlwaysBreakTemplateDeclarations: Yes
 BinPackParameters: false
 AlwaysBreakAfterReturnType: None
-BreakBeforeBinaryOperators: false
 BreakBeforeBraces: Custom
 BraceWrapping:
 	AfterClass: true
